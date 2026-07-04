@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🛡️ Cybersecurity Student • Security Researcher • Python Developer • Android Developer
+### 🛡️ Cybersecurity Student • SOC L1 • Python Developer •
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;Android+Developer;Always+Learning+Always+Building" />
 
@@ -20,8 +20,6 @@ My interests include:
 * 🌐 Network Security
 * 🛡️ Information Security
 * 🐍 Python Security Automation
-* 📱 Android Development
-* 🔍 Security Research
 * ⚡ Ethical Hacking
 * 💻 Secure Software Development
 
@@ -34,7 +32,7 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
 </p>
 
 ### Cybersecurity & Networking
@@ -50,18 +48,18 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 * Nmap
 * Burp Suite
 * Metasploit
-* OWASP Top 10
-* Network Analysis
-* Vulnerability Assessment
-* Security Research
+* Splunk
+* Wazuh
+* Microsoft Senitiel
+* QRadar
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📱 Android Security Applications
+### 📱 Secure Password Vault
 
-Building Android applications while exploring mobile security concepts and secure development practices.
+Developed a fully offline Android password manager designed to save passwords to reuse them.
 
 ### 🖐️ Computer Vision & AI Projects
 
@@ -82,11 +80,8 @@ Designing and maintaining a professional portfolio to showcase cybersecurity and
 * Security Operations Center (SOC)
 * Incident Response
 * Malware Analysis
-* Digital Forensics
 * Threat Hunting
 * Penetration Testing
-* Security Automation
-* Cloud Security
 
 ---
 
