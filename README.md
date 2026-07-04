@@ -4,7 +4,7 @@
 
 ### 🛡️ Cybersecurity Student • SOC L1 • Python Developer •
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;SOC L1;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;Always+Learning+Always+Building" />
 
 </div>
 
@@ -38,7 +38,7 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 ### Cybersecurity & Networking
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,kalilinux" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github," />
 </p>
 
 **Tools & Technologies**
