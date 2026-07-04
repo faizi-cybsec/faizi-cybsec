@@ -4,7 +4,7 @@
 
 ### 🛡️ Cybersecurity Student • SOC L1 • Python Developer •
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;Android+Developer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;SOC L1;Always+Learning+Always+Building" />
 
 </div>
 
@@ -38,7 +38,7 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 ### Cybersecurity & Networking
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,kalilinux" />
 </p>
 
 **Tools & Technologies**
@@ -94,8 +94,8 @@ My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining softw
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizi-cybsec&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizi-cybsec&layout=compact&theme=tokyonight" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizi-cybsec&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizi-cybsec&layout=compact&theme=tokyonight" /> -->
 </p>
 
 <p align="center">
