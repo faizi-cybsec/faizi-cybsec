@@ -38,7 +38,7 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 ### Cybersecurity & Networking
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github," />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,kali," />
 </p>
 
 **Tools & Technologies**
