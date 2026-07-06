@@ -99,7 +99,7 @@ My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining softw
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizi-cybsec&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizi-cybsec&theme=tokyonight&cache_seconds=1" /> 
 </p>
 
 ---
