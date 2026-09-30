@@ -117,7 +117,7 @@ My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining softw
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fayzn-ahmed">
+<a href="[https://www.linkedin.com/in/faizi-cybsec/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
