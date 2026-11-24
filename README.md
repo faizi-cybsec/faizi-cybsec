@@ -69,9 +69,7 @@ Developing gesture recognition and computer vision applications using Python and
 
 Creating practical security tools, automation scripts, and network analysis solutions.
 
-### 🌐 [Password Guardian]([https://faizi-cybsec.github.io/](https://github.com/faizi-cybsec/PasswordGuardian))
-
-Designing and maintaining a professional portfolio to showcase cybersecurity and development projects.
+- 🔑 **[Password Guardian](https://github.com/faizi-cybsec/PasswordGuardian)**: a C++17 password security analyzer built as a university cybersecurity project.
 
 ---
 
