@@ -103,6 +103,13 @@ My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining softw
 </p>
 
 ---
+<a href="https://gitscore.live/faizi-cybsec">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/faizi-cybsec?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/faizi-cybsec?style=card" alt="GitScore for faizi-cybsec" />
+  </picture>
+</a>
+---
 
 ## 🏆 Achievements & Goals
 
