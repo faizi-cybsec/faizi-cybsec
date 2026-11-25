@@ -2,9 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Faizan Ahmed
 
-### 🛡️ Cybersecurity Student • Aspiring SOC L1 Analyst • Python Developer
+### 🛡️ Aspiring SOC Analyst • Blue Team • BS Cyber Security Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+%26+SOC+Analyst+Enthusiast;Python+Security+Tool+Developer;Always+Learning+Always+Building)](https://github.com/faizi-cybsec)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Blue+Team+%26+Detection;Python+Security+Tool+Developer;Always+Learning+Always+Building)](https://github.com/faizi-cybsec)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Cybersecurity student and developer** focused on building practical security solutions and developing hands-on experience in offensive and defensive security.
+I am a passionate **Cybersecurity student and developer** focused on blue team security: monitoring, detection, and incident triage. I build practical security tools to learn how SOC work actually happens.
 
 My interests include:
 
@@ -20,10 +20,9 @@ My interests include:
 - 🌐 Network Security
 - 🛡️ Information Security
 - 🐍 Python Security Automation
-- ⚡ Ethical Hacking
 - 💻 Secure Software Development
 
-I believe the best way to learn cybersecurity is to **build, break, analyze, and secure real systems**.
+I believe the best way to learn cybersecurity is to **build, analyze, detect, and secure real systems**.
 
 ---
 
@@ -39,15 +38,13 @@ I believe the best way to learn cybersecurity is to **build, break, analyze, and
 
 **Tools & Technologies**
 
-- Kali Linux
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- Splunk
-- Wazuh
-- Microsoft Sentinel
-- QRadar
+- Linux & Windows fundamentals
+- Python (security tooling & automation)
+- C++17 (Password Guardian)
+- Log analysis & Sigma-style detection rules (LogSentinel)
+- MITRE ATT&CK mapping
+- Git & GitHub
+- Networking fundamentals (TCP/IP, DNS, common ports)
 
 ---
 
@@ -59,7 +56,7 @@ A zero-dependency **Python SOC log analyzer** with a Sigma-style detection rule 
 
 ### 📱 [Secure Password Vault](https://github.com/faizi-cybsec/secure-password-vault)
 
-Developed a fully offline Android password manager designed to save passwords to reuse them.
+Developed a fully offline Android password manager for storing and reusing credentials securely.
 
 ### 🖐️ Computer Vision & AI Projects
 
@@ -75,17 +72,23 @@ Creating practical security tools, automation scripts, and network analysis solu
 
 ## 📚 Currently Learning
 
-- Security Operations Center (SOC)
-- Incident Response
-- Malware Analysis
-- Threat Hunting
-- Penetration Testing
+- SOC operations & incident response (TryHackMe SOC Level 1 path)
+- SIEM platforms: Splunk, Wazuh, Microsoft Sentinel
+- Network analysis: Wireshark, Nmap
+- Threat hunting & detection engineering
 
 ---
 
 ## 🎯 Career Objective
 
-My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining software development skills with cybersecurity expertise to build secure systems, automate security operations, and contribute to modern cyber defense.
+My goal is to become a **SOC L1 Analyst**, combining my development background with blue team skills: monitoring alerts, triaging incidents, and documenting everything clearly. Currently on a 6-month roadmap (Nov 2026 → May 2027) of labs, projects, and certifications.
+
+---
+
+## 🎓 Certifications
+
+- 🛡️ **Certified SOC Analyst – Fundamentals** — National Cyber Emergency Response Team (PKCERT), Government of Pakistan · Nov 2026
+- 🌐 **Introduction to Cybersecurity** — Cisco Networking Academy · Jul 2026
 
 ---
 
@@ -107,6 +110,7 @@ My goal is to become a **Cybersecurity Engineer / SOC Analyst**, combining softw
 
 ## 🏆 Achievements & Goals
 
+- ✅ Earned **PKCERT Certified SOC Analyst – Fundamentals** (National CERT, Pakistan) · Nov 2026
 - ✅ Building hands-on cybersecurity projects
 - ✅ Developing Python automation tools
 - ✅ Creating Android applications
